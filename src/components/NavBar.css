@@ -1,0 +1,14 @@
+.ui.large.pointing.stackable.menu{
+    background-color: #00c853;
+}
+
+.page-header{
+    background-color: #00c853;
+}
+
+.nav-link{
+    border: black;
+    text-transform: capitalize;
+    font-weight: bold;
+    color: white;
+}

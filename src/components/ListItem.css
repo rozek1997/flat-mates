@@ -1,0 +1,19 @@
+.ui.segment.item{
+
+}
+
+
+.image-size{
+    height: 100px;
+    width: 100px;
+}
+
+#grid .column.content-column{
+    width: 40%;
+    height: 100%;
+}
+
+#grid .column.image-column{
+    width: 20%;
+    height: 100%;
+}

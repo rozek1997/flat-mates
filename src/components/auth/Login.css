@@ -1,0 +1,27 @@
+.ui.segment.login{
+    border: black solid 1px;
+    border-radius: 10px;
+    height: 50%;
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.6);
+    /*#ccff90*/
+}
+
+.ui.header{
+    text-align: center;
+}
+
+.ui.one.column.grid{
+    width: 100%;
+    height: 100%;
+    margin: 5%;
+    vertical-align: center;
+
+}
+
+.ui.segment.form{
+    width: inherit;
+    height: inherit;
+    background-color: #ccff90;
+}

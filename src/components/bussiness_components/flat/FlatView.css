@@ -1,0 +1,26 @@
+
+.ui.container.flat-container{
+    margin-top: 10%;
+}
+
+.ui.segment.buttons{
+    border: black solid 1px;
+    border-radius: 10px;
+    height: 50%;
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255,  0.6);
+    vertical-align: middle;
+}
+
+.ui.stackable.two.column.grid{
+    width: 100%;
+    height: 100%;
+    margin: inherit;
+
+}
+
+.grid.column{
+    text-align: center;
+    vertical-align: middle;
+}
