@@ -14,7 +14,7 @@ class App extends React.Component {
         return (
             <Container className="main-page">
               <Header as="h1" size="huge" icon>
-                <Icon size="huge" name="home"/>Both grades: 4.5 and 4 are great but I prefer 4.5
+                  <Icon size="huge" name="home"/>Flatmates
               </Header><br/>
               <Button onClick={event => this.setState({redirect: true})} color="blue" content={"sign in".toUpperCase()} size="huge"/>
             </Container>

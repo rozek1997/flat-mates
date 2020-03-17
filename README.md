@@ -1,3 +1,27 @@
+## Flatmates - frontend
+
+## Overview
+
+Presentation layer(frontend) of application for flat mates to organize common task in flat, share payments among residents
+
+##Technology used
+
+- React
+- React-Router
+- Redux 
+- CSS
+- Semantic-UI-React
+
+##Preview
+
+![main-view](https://drive.google.com/uc?export=view&id=1oYCxmfXXakxPKQv4l3VLVkDzMQcpyzNS)
+
+![login-page](https://drive.google.com/uc?export=view&id=1eI1GQXAM3V2VGYidVAS2YzxmXEKiubve)
+
+![sign-up](https://drive.google.com/uc?export=view&id=12K6rKQkEFga_8rA5gJ2RjrLwg6hg-5ra)
+
+![mobile-view](https://drive.google.com/uc?export=view&id=1V1zONXFe4JkL6M92XkdzchupVgMJl_Q6)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
