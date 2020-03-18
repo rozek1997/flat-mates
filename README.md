@@ -14,16 +14,21 @@ Presentation layer(frontend) of application for flat mates to organize common ta
 
 ## Preview
 
-![main-view](https://drive.google.com/uc?export=view&id=1oYCxmfXXakxPKQv4l3VLVkDzMQcpyzNS)
+### Main view
 
+![main-view](https://user-images.githubusercontent.com/38226876/76953548-2b4b4300-690f-11ea-88ec-120f4d1cf585.jpeg)
 
-![login-page](https://drive.google.com/uc?export=view&id=1eI1GQXAM3V2VGYidVAS2YzxmXEKiubve)
+### Login page
 
+![login](https://user-images.githubusercontent.com/38226876/76953553-2dad9d00-690f-11ea-998e-c35b6790ac98.png)
 
-![sign-up](https://drive.google.com/uc?export=view&id=12K6rKQkEFga_8rA5gJ2RjrLwg6hg-5ra)
+### SignUp Page
 
+![signup](https://user-images.githubusercontent.com/38226876/76953557-2f776080-690f-11ea-8ec0-975e6ed361f4.png)
 
-![mobile-view](https://drive.google.com/uc?export=view&id=1V1zONXFe4JkL6M92XkdzchupVgMJl_Q6)
+### Mobile view 
+
+![mobile-view](https://user-images.githubusercontent.com/38226876/76953561-30a88d80-690f-11ea-8a1c-4f4da6e37717.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
